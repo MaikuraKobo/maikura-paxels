@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "maikura_paxels",
+  "version": "${version}",
+  "name": "Maikura Paxels",
+  "description": "A simple 4-in-1 paxel mod by Maikura Kobo. Combines pickaxe, axe, shovel and hoe behavior into one tool.",
+  "authors": ["舞倉工房 / MAIKURA KOBO"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/maikura_paxels/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["jp.maikurakobo.paxels.MaikuraPaxels"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

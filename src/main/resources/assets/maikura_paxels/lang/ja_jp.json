@@ -1,0 +1,15 @@
+{
+  "item.maikura_paxels.wooden_paxel": "木のパクセル",
+  "item.maikura_paxels.stone_paxel": "石のパクセル",
+  "item.maikura_paxels.copper_paxel": "銅のパクセル",
+  "item.maikura_paxels.iron_paxel": "鉄のパクセル",
+  "item.maikura_paxels.golden_paxel": "金のパクセル",
+  "item.maikura_paxels.diamond_paxel": "ダイヤパクセル",
+  "item.maikura_paxels.netherite_paxel": "ネザライトパクセル",
+  "item.maikura_paxels.beacon_paxel": "光導のパクセル",
+  "modmenu.nameTranslation.maikura_paxels": "Maikura Paxels",
+  "modmenu.descriptionTranslation.maikura_paxels": "ツルハシ・斧・シャベル・クワを1本にまとめた舞倉工房のパクセルMOD。",
+  "tooltip.maikura_paxels.right_click": "右クリック：樹皮剥がし / 土の道",
+  "tooltip.maikura_paxels.sneak_right_click": "スニーク右クリック：耕作",
+  "tooltip.maikura_paxels.beacon_haste": "メインハンド時：ヘイスト I"
+}

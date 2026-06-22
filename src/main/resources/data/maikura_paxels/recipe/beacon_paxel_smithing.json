@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:beacon",
+  "base": "maikura_paxels:netherite_paxel",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "maikura_paxels:beacon_paxel",
+    "count": 1
+  }
+}

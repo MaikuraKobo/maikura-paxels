@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "maikura_paxels:wooden_paxel",
+    "maikura_paxels:stone_paxel",
+    "maikura_paxels:copper_paxel",
+    "maikura_paxels:iron_paxel",
+    "maikura_paxels:golden_paxel",
+    "maikura_paxels:diamond_paxel",
+    "maikura_paxels:netherite_paxel",
+    "maikura_paxels:beacon_paxel"
+  ]
+}

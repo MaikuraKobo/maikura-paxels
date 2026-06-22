@@ -1,0 +1,15 @@
+{
+  "item.maikura_paxels.wooden_paxel": "Wooden Paxel",
+  "item.maikura_paxels.stone_paxel": "Stone Paxel",
+  "item.maikura_paxels.copper_paxel": "Copper Paxel",
+  "item.maikura_paxels.iron_paxel": "Iron Paxel",
+  "item.maikura_paxels.golden_paxel": "Golden Paxel",
+  "item.maikura_paxels.diamond_paxel": "Diamond Paxel",
+  "item.maikura_paxels.netherite_paxel": "Netherite Paxel",
+  "item.maikura_paxels.beacon_paxel": "Beacon Paxel",
+  "modmenu.nameTranslation.maikura_paxels": "Maikura Paxels",
+  "modmenu.descriptionTranslation.maikura_paxels": "A Maikura Kobo paxel mod that combines pickaxe, axe, shovel and hoe behavior into one tool.",
+  "tooltip.maikura_paxels.right_click": "Right-click: Strip logs / Dirt path",
+  "tooltip.maikura_paxels.sneak_right_click": "Sneak + right-click: Till soil",
+  "tooltip.maikura_paxels.beacon_haste": "Main hand: Haste I"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_hoe"
+  ],
+  "result": {
+    "id": "maikura_paxels:wooden_paxel",
+    "count": 1
+  }
+}

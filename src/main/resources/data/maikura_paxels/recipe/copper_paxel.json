@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:copper_pickaxe",
+    "minecraft:copper_axe",
+    "minecraft:copper_shovel",
+    "minecraft:copper_hoe"
+  ],
+  "result": {
+    "id": "maikura_paxels:copper_paxel",
+    "count": 1
+  }
+}
